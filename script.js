@@ -7,13 +7,14 @@ fetch("solutions.json")
                   solutions = json
                   createCards()})
     .catch(error => console.error(error))
-//createCards()
 }
+//createCards()
 function createCards() {
 let container = document.createElement('div')
-container.innerHTML = solutions.map(solution=>
+container.innerHTML = solutions.map(solution =>
 `<div>
-
+    <h3>${solution.Suggestion}</h3>
+    <p>${solution.Explaination}</p>
 </div>`
                                   ).join('')
 document.querySelector('article')
