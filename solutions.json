@@ -1,13 +1,3 @@
-/* Type Code:
-A = Exercise or Physical
-B = Artistic
-C = Technology
-D = Doing things you need to do
-E = Musical
-F = External Distraction
-G = Misc
-H = Things you like to do
-*/
 [
     {
         "Type": "A",
@@ -17,71 +7,71 @@ H = Things you like to do
     {
         "Type": "B",
         "Suggestion": "Write something",
-        "Explaination" "Writing about something, whether it be positive or negative, can help reduce stress and anxiety. Writing our your feelings may help get things 'off your chest' which should help release any pent up feelings. If you enjoy writing poetry, songs, or stories, try writing something that envolves or reflects what your going through. If that isn't your cup of tea, try writing a journal."
+        "Explaination": "Writing about something, whether it be positive or negative, can help reduce stress and anxiety. Writing our your feelings may help get things 'off your chest' which should help release any pent up feelings. If you enjoy writing poetry, songs, or stories, try writing something that envolves or reflects what your going through. If that isn't your cup of tea, try writing a journal."
     },
      {
         "Type": "B",
         "Suggestion": "Doodle",
-        "Explaination" "Studies have shown that drawing and doodling seem to activate the relaxation response. The repetition and rhythmic motions help counter the natural instinct of 'Fight or Flight'. Try to carry around a sketch book or paper you can pull out when you feel anxious. Start drawing, painting, or coloring whatever comes to mind. This should again help get relax your mind and take your focus off of what caused you to be anxious."
+        "Explaination": "Studies have shown that drawing and doodling seem to activate the relaxation response. The repetition and rhythmic motions help counter the natural instinct of 'Fight or Flight'. Try to carry around a sketch book or paper you can pull out when you feel anxious. Start drawing, painting, or coloring whatever comes to mind. This should again help get relax your mind and take your focus off of what caused you to be anxious."
     },
     {
         "Type": "C",
         "Suggestion": "Watch your favorite Tv Show",
-        "Explaination" "Watching something you enjoy can help distract your thoughts, allowing your mind to relax. This inturn will help reduce any anxiety you may have. Distracting one's self from whatever caused your anxiety allows you to calm down and continue on with your day. This technique is designed to calm the mind, which will also calm the physical symptoms you may be experiencing"
+        "Explaination": "Watching something you enjoy can help distract your thoughts, allowing your mind to relax. This inturn will help reduce any anxiety you may have. Distracting one's self from whatever caused your anxiety allows you to calm down and continue on with your day. This technique is designed to calm the mind, which will also calm the physical symptoms you may be experiencing"
     },
     {
         "Type": "C",
         "Suggestion": "Watch funny videos",
-        "Explaination" "Similar to Watching your favorite Tv Show, watching something funny will help you to relax. When you laugh, endorphins are released. This chemical creates a good feeling within the brain. When the endorphins are released, they will help combat the feeling of being anxious, which will help one calm down. 'Laughter is the best medicine' is a real good way of helping. Look up funny videos, like funny animal videos for example, and take time to get away from your worries."
+        "Explaination": "Similar to Watching your favorite Tv Show, watching something funny will help you to relax. When you laugh, endorphins are released. This chemical creates a good feeling within the brain. When the endorphins are released, they will help combat the feeling of being anxious, which will help one calm down. 'Laughter is the best medicine' is a real good way of helping. Look up funny videos, like funny animal videos for example, and take time to get away from your worries."
     },
     {
         "Type": "C",
         "Suggestion": "Go see a movie",
-        "Explaination" "Going to see a movie has similar affects to both walking and watching your favorite show. The physical exercise and distraction from the movie allow your mind and body to calm down and relax. You can also go with friends and have fun."
+        "Explaination": "Going to see a movie has similar affects to both walking and watching your favorite show. The physical exercise and distraction from the movie allow your mind and body to calm down and relax. You can also go with friends and have fun."
     },
     {
         "Type": "D",
         "Suggestion": "Do homework",
-        "Explaination" "Sometimes a huge trigger in school is difficult school work. To help reduce any stress school may have, doing the homework will help you create good time management skills and help reduce some of that stress. Along with this, listen to the teacher, take notes, ask questions, allow time for more difficult areas, refresh yur memory regularly, and avoid procrastination. Procrastinating tends to cause more anxiety and stress."
+        "Explaination": "Sometimes a huge trigger in school is difficult school work. To help reduce any stress school may have, doing the homework will help you create good time management skills and help reduce some of that stress. Along with this, listen to the teacher, take notes, ask questions, allow time for more difficult areas, refresh yur memory regularly, and avoid procrastination. Procrastinating tends to cause more anxiety and stress."
     },
     {
         "Type": "E",
         "Suggestion": "Play an instrument",
-        "Explaination" "Music is a good way to reduce stress, lower blood pressure, decrease heart rate, and helps other physical ailments. Music has a way of calming the mind. Playing an instrument helps distract you from what troubles you, and it allows you to express your feelings. This also helps you to gain a better control of your emotions and givs you something to focus on."
+        "Explaination": "Music is a good way to reduce stress, lower blood pressure, decrease heart rate, and helps other physical ailments. Music has a way of calming the mind. Playing an instrument helps distract you from what troubles you, and it allows you to express your feelings. This also helps you to gain a better control of your emotions and givs you something to focus on."
     },
     {
         "Type": "B",
         "Suggestion": "Paint your nails",
-        "Explaination" "Similar to doodling, painting your nails helps calm your nerves. This is something you would probably do at home or at a friends house"
+        "Explaination": "Similar to doodling, painting your nails helps calm your nerves. This is something you would probably do at home or at a friends house"
     },
     {
         "Type": "A",
         "Suggestion": "Punch a safe object",
-        "Explaination" "The physical activity helps reduce stress and anxiety by producing endorphins. This also helps relieve muscle tention. Punching for some time will help improve focus, concentration, and will help you forget the things that stressed you out. Just remember to punch something safe, like a punching bag. Do NOT punch walls, people, doors, cars, ect."
+        "Explaination": "The physical activity helps reduce stress and anxiety by producing endorphins. This also helps relieve muscle tention. Punching for some time will help improve focus, concentration, and will help you forget the things that stressed you out. Just remember to punch something safe, like a punching bag. Do NOT punch walls, people, doors, cars, ect."
     },
     {
         "Type": "G",
         "Suggestion": "Let yourself cry",
-        "Explaination" "This one is a simple explaination. Sometimes you just need to let your emotions out. This will help get things off your chest and will help you cop with the stressful emotions. Just remember it's ok to cry when you need to."
+        "Explaination": "This one is a simple explaination. Sometimes you just need to let your emotions out. This will help get things off your chest and will help you cop with the stressful emotions. Just remember it's ok to cry when you need to."
     },
     {
         "Type": "F",
         "Suggestion": "Play with a pet",
-        "Explaination" "Pets and other animals are great company and can help relax a person. Dogs and cats are sensitive to emotions and are able to tell when something isn't right. They will do whatever they can to help you feel comfortable. This solution helps take your mind off of things. Another thing that might distract you is having your pet apply pressure on you when sitting. The contact helps distract the mind"
+        "Explaination": "Pets and other animals are great company and can help relax a person. Dogs and cats are sensitive to emotions and are able to tell when something isn't right. They will do whatever they can to help you feel comfortable. This solution helps take your mind off of things. Another thing that might distract you is having your pet apply pressure on you when sitting. The contact helps distract the mind"
     },
     {
         "Type": "D",
         "Suggestion": "Clean Something",
-        "Explaination" "Cleaning something, whether it be laundary, dusting, or whatever, can give a person that feeling they acchieved something. The calm, simple task can help relax the mind and get you thinking about other things then what caused you to be anxious."
+        "Explaination": "Cleaning something, whether it be laundary, dusting, or whatever, can give a person that feeling they acchieved something. The calm, simple task can help relax the mind and get you thinking about other things then what caused you to be anxious."
     },
     {
         "Type": "H",
         "Suggestion": "Read a good book",
-        "Explaination" "Reading a book you enjoy can help lower your heart rate, causing you to become relaxed. It helps take you mind away from what's bothering you, and it can also relax your body and mind. A study showed that reading can reduce stress a lot faster than other methods. Just remember to read something you enjoy"
+        "Explaination": "Reading a book you enjoy can help lower your heart rate, causing you to become relaxed. It helps take you mind away from what's bothering you, and it can also relax your body and mind. A study showed that reading can reduce stress a lot faster than other methods. Just remember to read something you enjoy"
     },
     {
         "Type": "E",
         "Suggestion": "Listen to music",
-        "Explaination" ""
-    },
+        "Explaination": ""
+    }
 ]

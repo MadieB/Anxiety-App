@@ -13,11 +13,16 @@ app.use(express.static('public') )
 app.post("/login", (request, response) => {
     let username = request.body.username
     let password = request.body.password
-    console.log( username && password)
+    console.log( username + " " + password)
     users.push( username)
     users.push( password)
     response.send("You logged in Successfully.")
 })
-
+app.post("/save", (request, response) => {
+    let username = request.body.trigger
+    console.log( trigger)
+    users.push( trigger)
+    response.send("Your triggers are saved.")
+})
 //Listen for web requests
 app.listen(80,() => console.log("Server Started"))
